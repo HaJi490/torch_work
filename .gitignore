@@ -3,3 +3,5 @@ data/
 
 #
 __pycache__/
+yolo11n.pt
+yolo11s.pt
